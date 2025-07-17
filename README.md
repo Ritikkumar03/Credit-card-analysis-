@@ -1,12 +1,11 @@
-# Credit Card Risk Analysis | EDA & Random Forest Classifier
-
-A comprehensive machine learning project for predicting credit card approval using Random Forest Classifier with extensive Exploratory Data Analysis (EDA).
+# Credit Card Risk Analysis | EDA
+A learning project for predicting credit card approval with extensive Exploratory Data Analysis (EDA).
 
 ---
 
 ## 📊 Project Overview
 
-This project develops a Random Forest Classifier to help banks make informed decisions about credit card approvals by analyzing applicant data and credit history. The model addresses the challenge of imbalanced datasets commonly found in credit risk assessment.
+This project develops to help banks make informed decisions about credit card approvals by analyzing applicant data and credit history. The model addresses the challenge of imbalanced datasets commonly found in credit risk assessment.
 
 ---
 
@@ -47,7 +46,6 @@ The project uses two main datasets:
 - **Data Preprocessing**: Comprehensive data cleaning, outlier removal, and feature engineering  
 - **Exploratory Data Analysis**: In-depth analysis of relationships between variables  
 - **Feature Selection**: VIF analysis to handle multicollinearity  
-- **Model Building**: Random Forest Classifier optimized for imbalanced datasets  
 - **Visualization**: Rich visualizations using matplotlib and seaborn  
 
 ---
